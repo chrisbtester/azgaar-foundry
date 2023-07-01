@@ -4,6 +4,10 @@
 
 # Unofficial Azgaar's Fantasy Map Generator Import
 
+## This is a fork of Ethck's module
+
+I am currently making this to have personal access to this module for Foundry v11. Use at your own risk.
+
 ## Important note regarding pictures from FMG
 
 In order for your map to be properly aligned you MUST export your PNG/JPEG/SVG while your browser is in FULLSCREEN mode (typically f11). Azgaar's Fantasy Map Generator will only capture what you can currently see, so make sure you see everything!

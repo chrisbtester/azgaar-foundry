@@ -8,19 +8,23 @@
     "compatibility": {
         "minimum": 10,
         "verified": 10,
-        "maximum": 10
+        "maximum": 11
     },
-    "authors": {
+    "authors": [ {
         "name": "Ethck",
         "discord": "Ethck#6879"
     },
+    {
+        "name": "chrisbtester"
+    }
+    ],
     "esmodules": ["/main.js"],
     "styles": ["/css/map.css"],
-    "url": "https://github.com/ethck/azgaar-foundry",
+    "url": "https://github.com/chrisbtester/azgaar-foundry",
     "manifest": "Replaced in Releases",
     "download": "Replaced in Releases",
-    "readme": "https://github.com/Ethck/azgaar-foundry/blob/master/README.md",
-    "changelog": "https://github.com/Ethck/azgaar-foundry/blob/master/README.md",
+    "readme": "https://github.com/chrisbtester/azgaar-foundry/blob/master/README.md",
+    "changelog": "https://github.com/chrisbtester/azgaar-foundry/blob/master/README.md",
     "relationships": {
         "requires": [
             {
