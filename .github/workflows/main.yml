@@ -38,7 +38,7 @@ jobs:
                   tag: ${{ github.event.release.tag_name }}
                   body: ${{ github.event.release.body }}
 
-            Update the 'latest' release
+            # Update the 'latest' release
             - name: Create Release
               id: create_latest_release
               uses: ncipollo/release-action@v1
