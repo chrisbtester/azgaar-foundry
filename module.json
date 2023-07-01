@@ -4,7 +4,7 @@
     "description": "Import a map from Azgaar's Fantasy Map Generator into Foundry.",
     "version": "Replaced in Releases",
     "minimumCoreVersion": "10",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "compatibility": {
         "minimum": 10,
         "verified": 11,
